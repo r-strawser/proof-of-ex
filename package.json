@@ -85,6 +85,7 @@
     "redux-logger": "^3.0.6",
     "redux-saga": "^0.16.0",
     "redux-thunk": "^2.3.0",
+    "scrypt": "github:barrysteyn/node-scrypt#fb60a8d3c158fe115a624b5ffa7480f3a24b03fb",
     "sha256": "^0.2.0",
     "truffle-contract": "^3.0.6",
     "validator": "^10.8.0",
