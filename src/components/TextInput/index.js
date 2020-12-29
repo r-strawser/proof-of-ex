@@ -12,11 +12,11 @@ class TextInput extends Component {
 
 // makes sure prop is a string
 TextInput.propTypes = {
-    label: PropTypes.string.isRequired
+  label: PropTypes.string.isRequired
 }
 
 TextInput.defaultProps = {
-    label: "Enter Name"
+  label: "Enter Name"
 }
 
 export default TextInput
