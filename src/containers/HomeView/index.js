@@ -5,7 +5,7 @@ class HomeView extends Component {
   render() {
     return (
       <div className="container">
-        <TextInput />
+        <TextInput label="Enter Name" />
       </div>
     )
   }
